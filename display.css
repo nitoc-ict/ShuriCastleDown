@@ -1,0 +1,33 @@
+.message {
+    padding: 0.5em 1em;
+    height: 150px;
+    color: #FFF;
+    background: #6eb7ff;
+    border-bottom: solid 6px #3f87ce;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
+    border-radius: 9px;
+}
+
+.message p {
+    margin: 0;
+    padding-top: 5px;
+}
+
+.field {
+    /*padding-bottom: 400px; or 345*/
+    /*padding-bottom: 345px;*/
+}
+
+.name {
+    border-bottom: double 1px black;
+    position: relative;
+    bottom: 25px;
+    color: #FFF;
+    background: green;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    width: 100px;
+    height: 35px;
+    padding: 1px 5px 13px;
+    margin-left: 10px;
+}
